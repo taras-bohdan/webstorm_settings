@@ -1,0 +1,11 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="CoffeeScript/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Dart/Quick assist powered by the Dart Analysis Server" />
+    <ignoreAction name="XSLT/Add optional Argument(s)" />
+    <ignoreAction name="XSLT/Convert if to choose" />
+    <ignoreAction name="XSLT/Inline xsl:attribute" />
+    <ignoreAction name="XSLT/Replace with xsl:attribute" />
+  </component>
+</application>
