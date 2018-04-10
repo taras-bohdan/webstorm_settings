@@ -9,6 +9,7 @@
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
