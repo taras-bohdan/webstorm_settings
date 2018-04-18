@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
