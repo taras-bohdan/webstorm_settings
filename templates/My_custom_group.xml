@@ -1,0 +1,9 @@
+<templateSet group="My_custom_group">
+  <template name="afun" value="($params$) =&gt; {&#10;  $END$&#10;}" description="Arrow function" toReformat="true" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
