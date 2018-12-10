@@ -8,6 +8,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
+      <mapping pattern="Active" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
