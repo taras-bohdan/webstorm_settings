@@ -8,6 +8,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/prop-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="acl-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_acl_index.d.ts" />
