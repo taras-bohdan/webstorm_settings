@@ -5,12 +5,13 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping pattern="deployTool1" type="PLAIN_TEXT" />
-      <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Active" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
